@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "questions": "Quiz - Term Insurance",
+    "startDate": "11 Sep 2022",
+    "endDate": "15 Sep 2022",
+    "score": "50",
+    "answer": [
+      {
+        "ans1": "Health",
+        "ans2": "Vehicle",
+        "ans3": "Accident",
+        "ans4": "Home"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "questions": "Quiz - Health Insurance",
+    "startDate": "05 Sep 2022",
+    "endDate": "10 Sep 2022",
+    "score": "100",
+    "answer": [
+      {
+        "ans1": "Health",
+        "ans2": "Vehicle",
+        "ans3": "Accident",
+        "ans4": "Home"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "questions": "Quiz - Occupational Accident",
+    "startDate": "01 Sep 2022",
+    "endDate": "06 Sep 2022",
+    "score": "50",
+    "answer": [
+      {
+        "ans1": "Health",
+        "ans2": "Vehicle",
+        "ans3": "Accident",
+        "ans4": "Home"
+      }
+    ]
+  }
+]
