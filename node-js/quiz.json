@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "question": "Quiz - Term Insurance",
+    "startdate": "11 Sep 2022",
+    "enddate": "15 Sep 2022",
+    "score": "50",
+    "answer": {
+      "option1": "Health",
+      "option2": "Vehicle",
+      "option3": "Accident",
+      "option4": "Home",
+      "correctAns": "option2"
+    }
+  },
+  {
+    "id": 2,
+    "question": "Quiz - Health Insurance",
+    "startdate": "05 Sep 2022",
+    "enddate": "10 Sep 2022",
+    "score": "100",
+    "answer": {
+      "option1": "Health",
+      "option2": "Vehicle",
+      "option3": "Accident",
+      "option4": "Home",
+      "correctAns": "option1"
+    }
+  },
+  {
+    "id": 3,
+    "question": "Quiz - Occupational Accident",
+    "startdate": "01 Sep 2022",
+    "enddate": "06 Sep 2022",
+    "score": "50",
+    "answer": {
+      "option1": "Health",
+      "option2": "Vehicle",
+      "option3": "Accident",
+      "option4": "Home",
+      "correctAns": "option3"
+    }
+  },
+  {
+    "id": 4,
+    "question": "Who was the first Prime Minister of India?",
+    "startdate": "2022-11-07",
+    "enddate": "2022-11-10",
+    "score": "10",
+    "answer": {
+      "option1": "Indira Gandhi",
+      "option2": "Narendra Modi",
+      "option3": "Jawaharlal Nehru",
+      "option4": "Rajiv Gandhi",
+      "correctAns": "option3"
+    }
+  },
+  {
+    "id": 5,
+    "question": "What is the capital city of India?",
+    "startdate": "2022-11-10",
+    "enddate": "2022-11-18",
+    "score": "20",
+    "answer": {
+      "option1": "New Delhi",
+      "option2": "Mumbai",
+      "option3": "Kolkata",
+      "option4": "Chennai",
+      "correctAns": "option1"
+    }
+  }
+]
